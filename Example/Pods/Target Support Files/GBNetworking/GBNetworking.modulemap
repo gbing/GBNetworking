@@ -1,0 +1,6 @@
+framework module GBNetworking {
+  umbrella header "GBNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
