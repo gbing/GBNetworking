@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GBNetworking'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'GBNetworking for demo'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/gbing/GBNetworking'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'guobing' => '13718118640@139.com' }
+  s.author           = { 'gbing' => 'guo_b_it@163.com' }
   s.source           = { :git => 'https://github.com/gbing/GBNetworking.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
